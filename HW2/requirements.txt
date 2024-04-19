@@ -1,0 +1,4 @@
+numpy
+matplotlib
+opency-python
+scikit-image
